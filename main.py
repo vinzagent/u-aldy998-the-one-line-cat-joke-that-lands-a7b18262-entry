@@ -7,7 +7,7 @@ the sealed scorer reads.
 import os
 
 ENTRY = (
-    'My cat shoved my laptop off the desk, stared at the shattered screen, then meowed at me like I was the one who had been walking on the keyboard all along, and sat on the keys like a throne.'
+    "My cat shoved my laptop off the desk, stared at the shattered screen, then meowed at me like I was the one who had been walking on the keyboard all along, and sat on the keys like a throne."
 )
 
 MAX_CHARS = 200
